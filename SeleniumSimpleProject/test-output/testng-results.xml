@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9071" started-at="2016-12-06T01:57:57Z" finished-at="2016-12-06T01:58:07Z">
+    <groups>
+      <group name="BT">
+        <method signature="TridentifyWebTest.test1_1()[pri:0, instance:lab9.TridentifyWebTest@4439f31e]" name="test1_1" class="lab9.TridentifyWebTest"/>
+        <method signature="TridentifyWebTest.test1_2()[pri:0, instance:lab9.TridentifyWebTest@4439f31e]" name="test1_2" class="lab9.TridentifyWebTest"/>
+        <method signature="TridentifyWebTest.test1_3()[pri:0, instance:lab9.TridentifyWebTest@4439f31e]" name="test1_3" class="lab9.TridentifyWebTest"/>
+      </group> <!-- BT -->
+    </groups>
+    <test name="Default test" duration-ms="9071" started-at="2016-12-06T01:57:57Z" finished-at="2016-12-06T01:58:07Z">
+      <class name="lab9.TridentifyWebTest">
+        <test-method status="PASS" signature="setupDriver()[pri:0, instance:lab9.TridentifyWebTest@4439f31e]" name="setupDriver" is-config="true" duration-ms="2997" started-at="2016-12-06T01:57:57Z" finished-at="2016-12-06T01:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="test1_1()[pri:0, instance:lab9.TridentifyWebTest@4439f31e]" name="test1_1" duration-ms="335" started-at="2016-12-06T01:58:00Z" finished-at="2016-12-06T01:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_1 -->
+        <test-method status="PASS" signature="test1_2()[pri:0, instance:lab9.TridentifyWebTest@4439f31e]" name="test1_2" duration-ms="296" started-at="2016-12-06T01:58:01Z" finished-at="2016-12-06T01:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_2 -->
+        <test-method status="PASS" signature="test1_3()[pri:0, instance:lab9.TridentifyWebTest@4439f31e]" name="test1_3" duration-ms="295" started-at="2016-12-06T01:58:01Z" finished-at="2016-12-06T01:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_3 -->
+        <test-method status="PASS" signature="tearDownAfterClass()[pri:0, instance:lab9.TridentifyWebTest@4439f31e]" name="tearDownAfterClass" is-config="true" duration-ms="5130" started-at="2016-12-06T01:58:01Z" finished-at="2016-12-06T01:58:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterClass -->
+      </class> <!-- lab9.TridentifyWebTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
